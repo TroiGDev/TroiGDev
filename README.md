@@ -5,7 +5,8 @@
 - 📫 How to reach me: Instagram: troi.dev, YouTube: Troi Dev, Itch.io: troidev, TikTok: Troi.dev;
 - [🎮 My Itch.io page](https://troidev.itch.io)
 
-![](Pictures/RektItLogo%5FOneD%5F700.png)
+  
+<img src="Pictures/RektItLogo%5FOneD%5F700.png" alt="RektIt Logo" width="200"/>
 
 <!---
 TroiGDev/TroiGDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
