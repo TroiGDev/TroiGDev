@@ -6,7 +6,11 @@
 - [🎮 My Itch.io page](https://troidev.itch.io)
 
   
-<img src="Pictures/RektItLogo%5FOneD%5F700.png" alt="RektIt Logo" width="200"/>
+<div style="display: flex;">
+    <img src="Pictures/RektItLogo%5FOneD%5F700.png" alt="RektIt Logo" width="200"/>
+    <img src="Pictures/BTStemLogo%5F700.png" alt="BTStem Logo" width="200"/>
+    <img src="Pictures/CanvasChaosLogo%5F700.png" alt="CanvasChaos Logo" width="200"/>
+</div>
 
 <!---
 TroiGDev/TroiGDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
