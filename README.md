@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TroiGDev also known as Troi, TroiDev and TroiGame;
 - 👀 I’m interested in programming (GameDevelopment);
 - 🌱 I’m currently learning Remote Procedure Callbacks (RPC) in Photon PUN with C# in Unity;
+- 🎮 Languages I know: C#, Python, ArduinoC;
 - 💞️ I’m looking to collaborate on GameDevelopment;
 - 📫 How to reach me: Instagram: troi.dev, YouTube: Troi Dev, Itch.io: troidev, TikTok: Troi.dev;
 - [🎮 My Itch.io page](https://troidev.itch.io)
