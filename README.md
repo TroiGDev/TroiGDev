@@ -4,7 +4,7 @@
 - 🌱 My current project goal is a mobile app for Google Play;
 - 🎮 Languages I know: C#, Python, ArduinoC, HTML, JavaScript;
 - 💞️ I’m looking to collaborate on GameDevelopment;
-- 📫 How to reach me: Instagram: troi.dev, YouTube: Troi Dev, Itch.io: troidev;
+- 📫 How to reach me: Instagram: troi.makes.games, Itch.io: troidev;
 - [🎮 My Itch.io page](https://troidev.itch.io)
 
   
