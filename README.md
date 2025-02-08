@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TroiGDev also known as Troi, TroiDev and TroiGame;
 - 👀 I’m interested in programming (GameDevelopment) and digital art/graphic design;
-- 🌱 I’m currently learning Remote Procedure Callbacks (RPC) in Photon PUN with C# in Unity;
-- 🌱 My current project goal is a mobile app for Google Play;
+- 🌱 My current project goal is a mobile game for Google Play;
 - 🎮 Languages I know: C#, Python, ArduinoC, HTML, JavaScript;
 - 💞️ I’m looking to collaborate on GameDevelopment;
 - 📫 How to reach me: Instagram: troi.makes.games, Itch.io: troidev;
