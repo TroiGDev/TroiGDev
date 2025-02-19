@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TroiGDev also known as Troi, TroiDev and TroiGame;
+- 👋 Hi, I’m Troi!
 - 👀 I’m interested in programming (GameDevelopment) and digital art/graphic design;
 - 🌱 My current project goal is a mobile game for Google Play;
 - 🎮 Languages I know: C#, Python, ArduinoC, HTML, JavaScript;
