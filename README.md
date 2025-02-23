@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Troi!
-- 👀 I’m interested in programming (GameDevelopment) and digital art/graphic design;
+- 👀 I’m interested in programming (Game Development and Competitive Programming) and digital art/graphic design;
 - 🌱 My current project goal is a mobile game for Google Play;
-- 🎮 Languages I know: C#, Python, ArduinoC, HTML and CSS (if you consider them programming languages), JavaScript;
-- 💞️ I’m looking to collaborate on GameDevelopment;
+- 🎮 Languages I know: C#, Python, ArduinoC, HTML and CSS (...if you consider them programming languages...), JavaScript;
+- 💞️ I’m looking to collaborate on GameDevelopment with UnityGE;
 - 📫 How to reach me: Instagram: troi.makes.games;
 
 <div style="display: flex;">
