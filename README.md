@@ -11,6 +11,5 @@
     <img src="Pictures/CanvasChaosLogo%5F700.png" alt="CanvasChaos Logo" width="200"/>
 </div> -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TroiGDev)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TroiGDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriGDev)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- WORKS BUT ONLY SHOWS PUBLIC REPOS, THEREFORE ITS TURNED OFF UNTIL I SET SOMETHING OTHER THAN PYTHON TO PUBLIC -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TroiGDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
