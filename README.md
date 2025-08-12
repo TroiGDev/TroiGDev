@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Troi!
-- 👀 I’m interested in programming (Game Development and Modding, Competitive Programming, App development), digital art/Graphic design and Videogame music production;
+- 👀 I’m interested in programming (Game development and Modding, Competitive programming, App development), digital art/Graphic design and Videogame music production;
 - 🌱 My current project goal is a mobile game for Google Play;
 - 🎮 Languages I know: C#, Python, ArduinoC, JavaScript, HTML and CSS, actively learning Kotlin and XML;
 - 💞️ I’m looking to collaborate on GameDevelopment with Unity or Godot;
